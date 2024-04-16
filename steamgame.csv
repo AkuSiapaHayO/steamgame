@@ -1,97 +1,108 @@
-title,release_year,price,user_score,age_rating,genres,dlcs,multiplayer
-"Shadow of the Ancient",2023,59.99,88,M,"Action, RPG",2,Yes
-"Mystic Quest",2021,49.99,78,T,"Adventure, Puzzle",0,No
-"Final Empire",2022,39.99,84,M,"Strategy, RPG",3,Yes
-"BattleTech Dominion",2023,29.99,91,T,"Action, Strategy",5,Yes
-"Neon Skies",2020,19.99,68,M,"Racing, Sci-Fi",1,Yes
-"Star Voyager",2021,34.99,74,E,"Simulation, Space",2,No
-"Guardians of History",2022,44.99,85,T,"Strategy, Historical",4,No
-"Crypt of Shadows",2024,54.99,92,M,"Horror, Adventure",2,Yes
-"Legends at War",2020,59.99,81,M,"Action, Multiplayer",3,Yes
-"Oceans of Time",2019,14.99,71,E,"Adventure, Educational",0,No
-"Pixel Fighters",2023,4.99,65,E,"Fighting, Retro",0,No
-"Skybound",2021,24.99,79,T,"Adventure, Fantasy",1,Yes
-"Lost Kingdoms",2022,39.99,83,T,"RPG, Fantasy",3,No
-"Voidwalkers",2020,49.99,90,M,"Sci-Fi, Horror",4,Yes
-"Fireteam Bravo",2019,59.99,75,T,"Shooter, Tactical",2,Yes
-"Quantum Race",2024,29.99,77,E,"Racing, Arcade",0,Yes
-"Empire of the Sun",2020,19.99,80,T,"Strategy, Historical",1,No
-"Nightmare Realm",2023,34.99,89,M,"Horror, Thriller",2,No
-"Heroes of Myth",2022,49.99,82,T,"RPG, Strategy",5,Yes
-"Spectral",2021,19.99,74,E,"Mystery, Puzzle",0,No
-"Rise of Titans",2023,59.99,87,M,"Action, RPG",2,Yes
-"Frost Edge",2020,14.99,70,T,"Survival, Horror",1,No
-"Azure Skies",2019,39.99,85,E,"Flight, Simulation",3,Yes
-"Echoes of the Lost",2024,54.99,91,M,"Adventure, Drama",0,No
-"King's Command",2022,24.99,68,T,"Strategy, Medieval",4,No
-"Rebel Forces",2021,29.99,83,M,"Shooter, Strategy",1,Yes
-"Shadow Strike",2023,9.99,75,E,"Strategy, Stealth",0,Yes
-"Dragon's Breath",2020,59.99,80,M,"RPG, Fantasy",3,Yes
-"Timeless War",2019,34.99,76,T,"Action, Historical",2,Yes
-"Phantom Racer",2021,19.99,72,E,"Racing, Ghost",0,Yes
-"Elemental Fury",2023,44.99,86,T,"RPG, Elemental",1,No
-"Twilight Depths",2020,49.99,93,M,"Adventure, Horror",3,Yes
-"Virtual Skies",2022,29.99,77,E,"Simulation, Aviation",0,Yes
-"Sunken Secrets",2024,14.99,81,T,"Puzzle, Underwater",1,No
-"Arcane Wars",2021,59.99,84,M,"Strategy, Fantasy",2,Yes
-"Icebound",2023,19.99,70,T,"Adventure, Cold",0,No
-"Storm Riders",2020,39.99,89,E,"Racing, Storms",2,Yes
-"Age of Sail",2019,54.99,88,T,"Strategy, Naval",3,Yes
-"Forgotten Lands",2022,24.99,75,M,"RPG, Open-World",4,No
-"Cosmic Clash",2021,49.99,79,T,"Sci-Fi, Action",1,Yes
-"Underworld",2020,9.99,65,M,"Mystery, Thriller",0,No
-"Desert Hawks",2023,34.99,83,E,"Flight, Combat",2,Yes
-"Monarchs",2022,59.99,80,T,"Strategy, Royalty",3,Yes
-"Lost in Time",2024,14.99,77,T,"Puzzle, Time-Travel",1,No
-"Blazing Trails",2019,19.99,71,E,"Adventure, Exploration",0,Yes
-"Gladiators of Rome",2020,29.99,86,M,"Action, Historical",2,Yes
-"Chronicles of the Void",2021,39.99,88,M,"RPG, Sci-Fi",4,Yes
-"Sky Pirates",2022,24.99,78,E,"Adventure, Airships",1,Yes
-"Silent Ocean",2023,49.99,92,T,"Strategy, Submarine",3,Yes
-"Beast Wars",2021,59.99,81,M,"Strategy, Creatures",2,Yes
-"Cave of Wonders",2020,9.99,69,E,"Adventure, Fantasy",0,No
-"Nova Command",2019,34.99,85,T,"Sci-Fi, Tactical",1,Yes
-"Reign of Shadows",2024,44.99,90,M,"Strategy, Dark Fantasy",5,Yes
-"Steel Valkyries",2023,29.99,82,T,"Action, Mechs",0,Yes
-"Dungeon Depths",2019,19.99,76,M,"RPG, Dungeon Crawler",1,No
-"Galactic Frontiers",2021,49.99,87,E,"Strategy, Space",3,Yes
-"Terra Firma",2022,14.99,80,T,"Simulation, World-Building",0,No
-"Viking Lore",2023,24.99,79,M,"Adventure, Historical",2,No
-"Portal Seekers",2022,39.99,83,T,"Puzzle, Adventure",1,Yes
-"Thunder Racers",2021,29.99,76,E,"Racing, Sports",0,No
-"Swords and Shadows",2020,34.99,88,M,"RPG, Action",2,Yes
-"Realm of the Titans",2024,59.99,91,M,"MOBA, Strategy",3,Yes
-"Orbit Wars",2021,14.99,74,T,"Strategy, Sci-Fi",0,Yes
-"Apex Hunters",2023,49.99,89,E,"Shooter, Open-World",2,Yes
-"Lost Chronicles",2019,24.99,75,M,"Adventure, Historical",1,No
-"Dwarven Mines",2020,39.99,82,T,"RPG, Strategy",4,Yes
-"Empire Builders",2021,19.99,77,E,"Simulation, City Builder",0,Yes
-"Phoenix Rise",2023,34.99,81,M,"Action, Mythology",2,Yes
-"Nova Drift",2022,9.99,70,T,"Arcade, Space",0,Yes
-"Spirit Quest",2024,59.99,86,M,"RPG, Supernatural",3,No
-"Olympus Unleashed",2019,49.99,84,T,"Action, Gods",1,Yes
-"Depth Charge",2020,29.99,89,E,"Strategy, Naval",2,Yes
-"Star Commandos",2021,54.99,93,M,"Sci-Fi, Tactical",3,Yes
-"Blood of Titans",2022,14.99,75,T,"Action, Fantasy",0,No
-"Plague Tales",2023,44.99,82,M,"Adventure, Stealth",1,Yes
-"Fabled Realms",2021,39.99,80,E,"Fantasy, Open-World",2,Yes
-"Arctic Survival",2020,19.99,77,T,"Survival, Cold",0,Yes
-"Champions of Antiquity",2024,34.99,88,M,"Strategy, Ancient",4,Yes
-"Quantum Gate",2023,49.99,91,T,"Sci-Fi, Puzzle",3,No
-"Neon Fury",2019,24.99,69,E,"Action, Cyberpunk",0,Yes
-"Mages of Mystralia",2021,59.99,85,M,"RPG, Magic",2,No
-"Savage Frontier",2020,29.99,73,T,"Adventure, Wild West",1,No
-"Mech Assault",2022,34.99,89,M,"Action, Robots",2,Yes
-"Throne of Games",2024,14.99,78,T,"Puzzle, Strategy",0,No
-"Windwalkers",2019,19.99,80,E,"RPG, Fantasy",1,No
-"Spectral Hunt",2021,49.99,92,M,"Horror, Supernatural",3,Yes
-"Guardian Spirits",2022,39.99,83,T,"Strategy, Fantasy",4,Yes
-"Crusade of Destiny",2023,24.99,76,M,"RPG, Historical",1,Yes
-"Aztec Empire",2020,9.99,70,E,"Strategy, Historical",0,No
-"Renegade Squadron",2021,59.99,88,T,"Shooter, Sci-Fi",2,Yes
-"Monster Slayers",2024,34.99,85,M,"Action, Adventure",1,Yes
-"Island Survival",2019,29.99,79,T,"Survival, Exploration",0,No
-"Skyfire",2022,19.99,77,E,"Action, Flying",1,Yes
-"Glacier Point",2023,44.99,81,M,"Survival, Cold",2,No
-"Infinity Loop",2020,14.99,84,T,"Puzzle, Endless",0,No
-"Solar Winds",2021,59.99,89,M,"Sci-Fi, Exploration",3,Yes
+title,release_year,price,user_score,age_rating,genres,dlcs,multiplayer,achievement_count,playtime_hours,AAA_enabled
+"Shadow of the Ancient",2023,69.99,88,M,"Action, RPG",2,Yes,50,30,Yes
+"Mystic Quest",2021,49.99,78,T,"Adventure, Puzzle",0,No,20,15,No
+"Final Empire",2022,59.99,84,M,"Strategy, RPG",3,Yes,35,40,Yes
+"BattleTech Dominion",2023,29.99,91,T,"Action, Strategy",5,Yes,48,25,No
+"Neon Skies",2020,19.99,68,M,"Racing, Sci-Fi",1,Yes,22,10,No
+"Star Voyager",2021,34.99,74,E,"Simulation, Space",2,No,30,50,No
+"Guardians of History",2022,44.99,85,T,"Strategy, Historical",4,No,40,60,No
+"Crypt of Shadows",2024,64.99,92,M,"Horror, Adventure",2,Yes,25,20,Yes
+"Legends at War",2020,59.99,81,M,"Action, Multiplayer",3,Yes,55,35,Yes
+"Oceans of Time",2019,14.99,71,E,"Adventure, Educational",0,No,10,5,No
+"Pixel Fighters",2023,4.99,65,E,"Fighting, Retro",0,No,15,8,No
+"Skybound",2021,24.99,79,T,"Adventure, Fantasy",1,Yes,18,20,No
+"Lost Kingdoms",2022,39.99,83,T,"RPG, Fantasy",3,No,45,50,No
+"Voidwalkers",2020,49.99,90,M,"Sci-Fi, Horror",4,Yes,32,30,No
+"Fireteam Bravo",2019,59.99,75,T,"Shooter, Tactical",2,Yes,27,25,Yes
+"Quantum Race",2024,29.99,77,E,"Racing, Arcade",0,Yes,10,12,No
+"Empire of the Sun",2020,19.99,80,T,"Strategy, Historical",1,No,18,45,No
+"Nightmare Realm",2023,34.99,89,M,"Horror, Thriller",2,No,22,18,No
+"Heroes of Myth",2022,49.99,82,T,"RPG, Strategy",5,Yes,38,40,No
+"Spectral",2021,19.99,74,E,"Mystery, Puzzle",0,No,12,10,No
+"Rise of Titans",2023,69.99,87,M,"Action, RPG",2,Yes,50,30,Yes
+"Frost Edge",2020,14.99,70,T,"Survival, Horror",1,No,15,20,No
+"Azure Skies",2019,39.99,85,E,"Flight, Simulation",3,Yes,28,60,No
+"Echoes of the Lost",2024,64.99,91,M,"Adventure, Drama",0,No,20,25,Yes
+"King's Command",2022,24.99,68,T,"Strategy, Medieval",4,No,35,50,No
+"Rebel Forces",2021,29.99,83,M,"Shooter, Strategy",1,Yes,24,30,No
+"Shadow Strike",2023,9.99,75,E,"Strategy, Stealth",0,Yes,12,15,No
+"Dragon's Breath",2020,69.99,80,M,"RPG, Fantasy",3,Yes,45,70,Yes
+"Timeless War",2019,34.99,76,T,"Action, Historical",2,Yes,30,25,No
+"Phantom Racer",2021,19.99,72,E,"Racing, Ghost",0,Yes,8,12,No
+"Elemental Fury",2023,44.99,86,T,"RPG, Elemental",1,No,40,45,No
+"Twilight Depths",2020,49.99,93,M,"Adventure, Horror",3,Yes,26,22,No
+"Virtual Skies",2022,29.99,77,E,"Simulation, Aviation",0,Yes,14,55,No
+"Sunken Secrets",2024,14.99,81,T,"Puzzle, Underwater",1,No,12,8,No
+"Arcane Wars",2021,59.99,84,M,"Strategy, Fantasy",2,Yes,37,60,Yes
+"Icebound",2023,19.99,70,T,"Adventure, Cold",0,No,10,15,No
+"Storm Riders",2020,39.99,89,E,"Racing, Storms",2,Yes,20,10,No
+"Age of Sail",2019,54.99,88,T,"Strategy, Naval",3,Yes,40,80,No
+"Forgotten Lands",2022,24.99,75,M,"RPG, Open-World",4,No,32,100,No
+"Cosmic Clash",2021,49.99,79,T,"Sci-Fi, Action",1,Yes,22,30,No
+"Underworld",2020,9.99,65,M,"Mystery, Thriller",0,No,15,10,No
+"Desert Hawks",2023,34.99,83,E,"Flight, Combat",2,Yes,25,35,No
+"Monarchs",2022,59.99,80,T,"Strategy, Royalty",3,Yes,38,55,Yes
+"Lost in Time",2024,14.99,77,T,"Puzzle, Time-Travel",1,No,15,10,No
+"Blazing Trails",2019,19.99,71,E,"Adventure, Exploration",0,Yes,10,8,No
+"Gladiators of Rome",2020,29.99,86,M,"Action, Historical",2,Yes,28,20,No
+"Chronicles of the Void",2021,39.99,88,M,"RPG, Sci-Fi",4,Yes,40,60,No
+"Sky Pirates",2022,24.99,78,E,"Adventure, Airships",1,Yes,20,25,No
+"Silent Ocean",2023,49.99,92,T,"Strategy, Submarine",3,Yes,36,45,No
+"Beast Wars",2021,59.99,81,M,"Strategy, Creatures",2,Yes,42,50,Yes
+"Cave of Wonders",2020,9.99,69,E,"Adventure, Fantasy",0,No,8,10,No
+"Nova Command",2019,34.99,85,T,"Sci-Fi, Tactical",1,Yes,25,45,No
+"Reign of Shadows",2024,44.99,90,M,"Strategy, Dark Fantasy",5,Yes,50,60,No
+"Steel Valkyries",2023,29.99,82,T,"Action, Mechs",0,Yes,20,18,No
+"Dungeon Depths",2019,19.99,76,M,"RPG, Dungeon Crawler",1,No,15,25,No
+"Galactic Frontiers",2021,49.99,87,E,"Strategy, Space",3,Yes,38,55,No
+"Terra Firma",2022,14.99,80,T,"Simulation, World-Building",0,No,12,20,No
+"Viking Lore",2023,24.99,79,M,"Adventure, Historical",2,No,25,30,No
+"Rift Runners",2020,69.99,82,M,"RPG, Multi-Dimensional",3,Yes,47,60,Yes
+"Moon Harvest",2021,19.99,74,E,"Simulation, Farming",0,No,12,15,No
+"Castle Siege",2022,34.99,83,T,"Strategy, Medieval",2,Yes,35,40,No
+"Spectral Forces",2024,59.99,89,M,"Action, Supernatural",4,Yes,55,45,Yes
+"Torrent of Shadows",2019,24.99,75,T,"Adventure, Dark",1,No,18,25,No
+"Path of Legends",2023,49.99,91,M,"RPG, Fantasy",3,Yes,40,65,Yes
+"Neptune's Pride",2020,14.99,68,E,"Strategy, Naval",0,No,10,20,No
+"Orbit Defenders",2021,59.99,85,T,"Sci-Fi, Strategy",2,Yes,32,35,Yes
+"Legends of Eldor",2019,29.99,78,M,"RPG, Fantasy",1,Yes,20,30,No
+"Ancient Echoes",2022,39.99,82,T,"Puzzle, Historical",3,No,27,50,No
+"Flames of Fury",2020,19.99,71,M,"Action, Dragons",0,Yes,14,12,No
+"Chrono Sphere",2021,69.99,88,T,"Sci-Fi, Adventure",4,Yes,50,70,Yes
+"Empire Overrun",2024,44.99,90,M,"Strategy, Historical",5,Yes,45,80,Yes
+"Razor's Edge",2023,29.99,80,E,"Action, Thriller",0,Yes,23,15,No
+"Heart of the Forest",2019,24.99,77,T,"Adventure, Nature",1,No,18,25,No
+"Night Sky",2020,34.99,84,E,"Puzzle, Atmospheric",2,No,20,22,No
+"Sorcerer's Duel",2021,14.99,73,M,"Fantasy, Strategy",0,Yes,12,15,No
+"Lost Civilization",2022,59.99,89,M,"Strategy, Ancient",3,Yes,38,60,Yes
+"Titan Clash",2020,49.99,85,T,"Action, Titans",1,Yes,34,40,No
+"Abyssal Depths",2019,9.99,70,E,"Horror, Survival",0,No,8,10,No
+"Wizard's Quest",2021,39.99,82,T,"RPG, Magic",2,No,28,35,No
+"Fury of the Fallen",2024,69.99,91,M,"Action, RPG",3,Yes,45,50,Yes
+"Echo of Silence",2020,19.99,76,E,"Stealth, Adventure",0,No,12,15,No
+"Starlight",2019,59.99,85,M,"Sci-Fi, Exploration",2,Yes,30,70,Yes
+"Ragnarok Beginnings",2022,29.99,80,T,"Action, Mythology",0,Yes,18,20,No
+"Phantom Brigade",2023,49.99,88,M,"Strategy, Mechs",1,Yes,36,45,Yes
+"Ancient Guardians",2024,24.99,79,E,"Adventure, Historical",2,No,24,35,No
+"Blades of Time",2019,14.99,75,T,"Action, Historical",0,No,10,12,No
+"Infinite Realms",2021,34.99,83,M,"RPG, Sci-Fi",3,No,33,55,No
+"Crimson Dawn",2020,44.99,90,T,"Strategy, War",2,Yes,40,65,No
+"Shadow of Tomorrow",2022,29.99,87,E,"Sci-Fi, Thriller",0,Yes,20,25,No
+"Eternal Winter",2019,54.99,92,M,"Survival, Cold",4,Yes,38,50,Yes
+"Solar Winds",2021,19.99,78,T,"Simulation, Space",1,No,16,30,No
+"Legion of Heroes",2023,64.99,89,M,"RPG, Epic",3,Yes,52,75,Yes
+"Deep Sea Delirium",2020,9.99,65,E,"Adventure, Underwater",0,No,7,9,No
+"Wrath of the Ancients",2024,59.99,86,T,"Action, Historical",2,Yes,48,55,Yes
+"Vortex Rising",2019,24.99,77,M,"Action, Sci-Fi",1,Yes,22,20,No
+"Island of Mystery",2021,39.99,82,E,"Puzzle, Exploration",2,No,30,45,No
+"Battle for Dystopia",2022,49.99,91,T,"Strategy, Futuristic",4,Yes,42,60,Yes
+"Towers of Eternity",2020,14.99,70,M,"RPG, Tower Defense",0,No,12,15,No
+"Galaxy Patrol",2023,69.99,85,M,"Sci-Fi, Adventure",3,Yes,45,70,Yes
+"Haunting Echoes",2024,19.99,74,T,"Horror, Mystery",0,No,11,13,No
+"Kingdoms Collide",2020,34.99,81,E,"Strategy, Medieval",1,Yes,25,40,No
+"Arctic Abyss",2021,29.99,79,M,"Survival, Arctic",0,Yes,15,20,No
+"Odyssey of Time",2022,49.99,88,M,"Adventure, Time-Travel",2,Yes,36,55,Yes
+"Lost Relics",2020,9.99,71,T,"Puzzle, Archeology",0,No,9,12,No
+"Infinite Horizons",2021,59.99,85,T,"Sci-Fi, Exploration",3,Yes,38,80,Yes
+"Warlords Rising",2023,24.99,78,E,"Strategy, Combat",1,No,22,35,No
+"Twilight Shadows",2024,44.99,92,M,"Adventure, Fantasy",5,Yes,50,65,Yes
